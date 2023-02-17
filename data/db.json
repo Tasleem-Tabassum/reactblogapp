@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "February 14, 2023 11:11:06 PM",
+      "body": "It's a nice evenin' to have a cup of coffee..."
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "datetime": "Feb 14, 2023 11:40:47 AM",
+      "body": "It's raining on the valentine's day!"
+    },
+    {
+      "id": 4,
+      "title": "Wireless gen....",
+      "datetime": "February 14, 2023 11:10:47 PM",
+      "body": "Being a computers student in a wireless gen, its feels weird thinking how we are living in radio waves always! :/"
+    },
+    {
+      "id": 5,
+      "title": "Hooks 2-day!",
+      "datetime": "February 18, 2023 12:57:08 AM",
+      "body": "Today and tomorrow, we are going to learn hooks more in depth."
+    }
+  ]
+}
